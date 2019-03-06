@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/mainOut.dir/main.cpp.o CMakeFiles/mainOut.dir/src/func.cpp.o  -o mainOut -rdynamic 

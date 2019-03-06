@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+  
+  for (int j = 0; j < N; ++j) {
+    printf("the value of j is %d",j); 
+  }
+  
+  return 0;
+}
+

@@ -1,0 +1,8 @@
+renderdistance 20
+fullscreen 1
+windowsize 1280 720
+fov 90
+gamma 1.3
+contrast 1.1
+brightness 1.15
+post process 1

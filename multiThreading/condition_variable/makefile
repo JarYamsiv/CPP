@@ -1,0 +1,2 @@
+all:
+	g++ main.cpp -o main -lpthread -std=c++17

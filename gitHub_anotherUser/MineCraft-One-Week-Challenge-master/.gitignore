@@ -1,0 +1,34 @@
+
+#CodeBLocks stuff
+*.layout
+*.depend
+*.cbp
+bin/
+obj/
+
+#Makefile stuff
+*.o
+MinecraftWeek
+
+#.dll stuff
+*.dll
+
+#Builds
+*.7z
+Project/
+
+#Profiler
+*.out
+
+#Visual Studio
+.vscode/
+
+#exe
+*.exe
+MinecraftWeek/
+
+#Mac stuff
+*.DS_STORE
+
+#CMakeCache file
+CMakeCache.txt

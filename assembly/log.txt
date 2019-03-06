@@ -1,0 +1,11 @@
+[ 12/11/18 21:20:28 ] :  gdb  - disassemble main (for disassembling the masin function)
+[ 12/11/18 21:21:10 ] :  gdb  - set disassembly flavour intel - for changing the format
+[ 12/11/18 21:25:32 ] :   r2 - aaa (for analysing )
+:
+
+[ 12/11/18 21:25:59 ] :  r2 afl - to list out all the functions that r2 found
+[ 12/11/18 21:27:47 ] :  r2 s sym.main -  to seek to main
+[ 12/11/18 21:28:46 ] :  r2 pdf - to show disassembly of current function
+[ 12/11/18 21:36:45 ] :  r2 -d main -  to open in debug mode
+[ 12/11/18 21:37:25 ] :  r2 db 0x44456456 to add breakpoint at that address
+[ 12/11/18 21:38:46 ] :   r2 dc to run the program

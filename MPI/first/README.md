@@ -1,0 +1,1 @@
+type lamboot before mpiexec

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1346066326 source:/home/nghia/Projects/GlutFPS/Camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+
+1346066177 /home/nghia/Projects/GlutFPS/Camera.h
+
+1346066321 source:/home/nghia/Projects/GlutFPS/main.cpp
+	<GL/freeglut.h>
+	<iostream>
+	<cmath>
+	"Camera.h"
+
+1346066326 source:/home/vismay/CPP/openGL/GlutFPS/Camera.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"Camera.h"
+
+1346066177 /home/vismay/CPP/openGL/GlutFPS/Camera.h
+
+1346066406 source:/home/vismay/CPP/openGL/GlutFPS/main.cpp
+	<GL/freeglut.h>
+	<iostream>
+	<cmath>
+	"Camera.h"
+

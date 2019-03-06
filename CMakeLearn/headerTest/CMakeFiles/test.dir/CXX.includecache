@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vismay/CPP/CMakeLearn/headerTest/headers/func.h
+math.h
+-
+iostream
+-
+
+/home/vismay/CPP/CMakeLearn/headerTest/main.cpp
+iostream
+-
+headers/func.h
+/home/vismay/CPP/CMakeLearn/headerTest/headers/func.h
+
+/home/vismay/CPP/CMakeLearn/headerTest/src/func.cpp
+../headers/func.h
+/home/vismay/CPP/CMakeLearn/headerTest/headers/func.h
+
